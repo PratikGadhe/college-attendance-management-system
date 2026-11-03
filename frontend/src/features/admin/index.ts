@@ -1,0 +1,10 @@
+export * from './dashboard/AdminDashboardPage'
+export * from './students'
+export * from './faculty'
+export * from './departments'
+export * from './classes'
+export * from './subjects'
+export * from './enrollments'
+export * from './teaching_assignments'
+export * from './reports'
+
